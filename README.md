@@ -1,3 +1,4 @@
+![logo](https://github.com/Shazer-Nadeem/Shazer-Nadeem/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Shahzer Nadeem</h1>
 <h3 align="center">A passionate data science engineer from Pakistan</h3>
 
